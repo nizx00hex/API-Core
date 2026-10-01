@@ -1,0 +1,14 @@
+{
+    "name": "elitefort/api-core",
+    "description": "A lightweight and reusable PHP API core engine",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "EliteFort\\" : "src/"
+        }
+    }
+}
